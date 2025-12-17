@@ -1,5 +1,5 @@
 {
-  "name": "nexus_test_threejs",
+  "name": "nexus-club",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,6 +14,7 @@
     "@react-three/fiber": "^9.4.2",
     "@tailwindcss/vite": "^4.1.18",
     "lucide-react": "^0.561.0",
+    "framer-motion": "^12.23.26",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-router-dom": "^7.10.1",
